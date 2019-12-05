@@ -1,4 +1,4 @@
-module github.com/wjw1758548031/go_pdf
+module github.com/wjw1758548031/go_pdf/v3
 
 require (
 	github.com/boombuler/barcode v1.0.0
