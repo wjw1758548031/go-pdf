@@ -10,9 +10,9 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/core"
-	"github.com/wjw1758548031/go_pdf/v3/model"
+	"github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/core"
+	"github.com/wjw1758548031/go_pdf/model"
 )
 
 // TextChunk represents a chunk of text along with a particular style.

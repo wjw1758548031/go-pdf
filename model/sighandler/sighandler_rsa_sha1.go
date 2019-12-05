@@ -15,8 +15,8 @@ import (
 	"fmt"
 	"hash"
 
-	"github.com/wjw1758548031/go_pdf/v3/core"
-	"github.com/wjw1758548031/go_pdf/v3/model"
+	"github.com/wjw1758548031/go_pdf/core"
+	"github.com/wjw1758548031/go_pdf/model"
 )
 
 // SignFunc represents a custom signing function. The function should return

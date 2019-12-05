@@ -3,9 +3,9 @@ package draw
 import (
 	"math"
 
-	pdfcontent "github.com/wjw1758548031/go_pdf/v3/contentstream"
-	pdfcore "github.com/wjw1758548031/go_pdf/v3/core"
-	pdf "github.com/wjw1758548031/go_pdf/v3/model"
+	pdfcontent "github.com/wjw1758548031/go_pdf/contentstream"
+	pdfcore "github.com/wjw1758548031/go_pdf/core"
+	pdf "github.com/wjw1758548031/go_pdf/model"
 )
 
 // Circle represents a circle shape with fill and border properties that can be drawn to a PDF content stream.

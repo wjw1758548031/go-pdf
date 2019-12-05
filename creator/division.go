@@ -8,7 +8,7 @@ package creator
 import (
 	"errors"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
+	"github.com/wjw1758548031/go_pdf/common"
 )
 
 // Division is a container component which can wrap across multiple pages (unlike Block).

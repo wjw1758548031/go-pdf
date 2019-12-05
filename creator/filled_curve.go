@@ -6,10 +6,10 @@
 package creator
 
 import (
-	pdfcontent "github.com/wjw1758548031/go_pdf/v3/contentstream"
-	"github.com/wjw1758548031/go_pdf/v3/contentstream/draw"
-	pdfcore "github.com/wjw1758548031/go_pdf/v3/core"
-	pdf "github.com/wjw1758548031/go_pdf/v3/model"
+	pdfcontent "github.com/wjw1758548031/go_pdf/contentstream"
+	"github.com/wjw1758548031/go_pdf/contentstream/draw"
+	pdfcore "github.com/wjw1758548031/go_pdf/core"
+	pdf "github.com/wjw1758548031/go_pdf/model"
 )
 
 // FilledCurve represents a closed path of Bezier curves with a border and fill.

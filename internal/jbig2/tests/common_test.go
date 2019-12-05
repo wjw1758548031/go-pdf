@@ -16,12 +16,12 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/contentstream"
-	"github.com/wjw1758548031/go_pdf/v3/core"
-	"github.com/wjw1758548031/go_pdf/v3/model"
+	"github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/contentstream"
+	"github.com/wjw1758548031/go_pdf/core"
+	"github.com/wjw1758548031/go_pdf/model"
 
-	"github.com/wjw1758548031/go_pdf/v3/internal/jbig2"
+	"github.com/wjw1758548031/go_pdf/internal/jbig2"
 )
 
 type extractedImage struct {

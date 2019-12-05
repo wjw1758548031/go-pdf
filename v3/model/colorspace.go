@@ -11,8 +11,8 @@ import (
 	"image/color"
 	"math"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/core"
+	"github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/core"
 )
 
 // PdfColorspace interface defines the common methods of a PDF colorspace.

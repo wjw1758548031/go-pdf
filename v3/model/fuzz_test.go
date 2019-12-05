@@ -8,7 +8,7 @@ package model
 import (
 	"testing"
 
-	"github.com/wjw1758548031/go_pdf/v3/core"
+	"github.com/wjw1758548031/go_pdf/core"
 )
 
 // Test for an endless recursive loop in

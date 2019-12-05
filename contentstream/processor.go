@@ -8,10 +8,10 @@ package contentstream
 import (
 	"errors"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/core"
-	"github.com/wjw1758548031/go_pdf/v3/internal/transform"
-	"github.com/wjw1758548031/go_pdf/v3/model"
+	"github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/core"
+	"github.com/wjw1758548031/go_pdf/internal/transform"
+	"github.com/wjw1758548031/go_pdf/model"
 )
 
 // GraphicsState is a basic graphics state implementation for PDF processing.

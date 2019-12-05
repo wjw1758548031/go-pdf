@@ -33,10 +33,10 @@ import (
 
 	lzw1 "golang.org/x/image/tiff/lzw"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
+	"github.com/wjw1758548031/go_pdf/common"
 
-	"github.com/wjw1758548031/go_pdf/v3/internal/ccittfax"
-	"github.com/wjw1758548031/go_pdf/v3/internal/jbig2"
+	"github.com/wjw1758548031/go_pdf/internal/ccittfax"
+	"github.com/wjw1758548031/go_pdf/internal/jbig2"
 )
 
 // Stream encoding filter names.

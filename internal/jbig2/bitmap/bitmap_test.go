@@ -12,7 +12,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
+	"github.com/wjw1758548031/go_pdf/common"
 )
 
 // TestBitmap tests the bitmap methods and constructors.

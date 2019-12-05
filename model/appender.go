@@ -14,8 +14,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/core"
+	"github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/core"
 )
 
 // PdfAppender appends new PDF content to an existing PDF document via incremental updates.

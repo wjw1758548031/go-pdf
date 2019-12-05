@@ -8,8 +8,8 @@ package creator
 import (
 	"os"
 
-	"github.com/wjw1758548031/go_pdf/v3/contentstream/draw"
-	"github.com/wjw1758548031/go_pdf/v3/model"
+	"github.com/wjw1758548031/go_pdf/contentstream/draw"
+	"github.com/wjw1758548031/go_pdf/model"
 )
 
 // Loads the template from path as a list of pages.

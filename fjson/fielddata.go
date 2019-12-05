@@ -10,8 +10,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/wjw1758548031/go_pdf/v3/core"
-	"github.com/wjw1758548031/go_pdf/v3/model"
+	"github.com/wjw1758548031/go_pdf/core"
+	"github.com/wjw1758548031/go_pdf/model"
 )
 
 // FieldData represents form field data loaded from JSON file.

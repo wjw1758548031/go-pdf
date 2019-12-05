@@ -8,7 +8,7 @@ package bitmap
 import (
 	"image"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
+	"github.com/wjw1758548031/go_pdf/common"
 )
 
 // CombineBytes combines the provided bytes with respect to the CombinationOperator.

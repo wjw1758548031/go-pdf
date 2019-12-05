@@ -6,7 +6,7 @@
 package model
 
 import (
-	"github.com/wjw1758548031/go_pdf/v3/core"
+	"github.com/wjw1758548031/go_pdf/core"
 )
 
 // Optimizer is the interface that performs optimization of PDF object structure for output writing.

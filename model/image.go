@@ -17,9 +17,9 @@ import (
 	_ "image/gif"
 	_ "image/png"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/core"
-	"github.com/wjw1758548031/go_pdf/v3/internal/sampling"
+	"github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/core"
+	"github.com/wjw1758548031/go_pdf/internal/sampling"
 )
 
 // Image interface is a basic representation of an image used in PDF.

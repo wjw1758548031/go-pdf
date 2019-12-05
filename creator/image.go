@@ -11,11 +11,11 @@ import (
 	goimage "image"
 	"os"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/contentstream"
-	"github.com/wjw1758548031/go_pdf/v3/contentstream/draw"
-	"github.com/wjw1758548031/go_pdf/v3/core"
-	"github.com/wjw1758548031/go_pdf/v3/model"
+	"github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/contentstream"
+	"github.com/wjw1758548031/go_pdf/contentstream/draw"
+	"github.com/wjw1758548031/go_pdf/core"
+	"github.com/wjw1758548031/go_pdf/model"
 )
 
 // The Image type is used to draw an image onto PDF.

@@ -10,9 +10,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
+	"github.com/wjw1758548031/go_pdf/common"
 
-	"github.com/wjw1758548031/go_pdf/v3/internal/jbig2/reader"
+	"github.com/wjw1758548031/go_pdf/internal/jbig2/reader"
 )
 
 // TestArithmeticDecoder tests the arithmetic decoder with the Apendix A methods.

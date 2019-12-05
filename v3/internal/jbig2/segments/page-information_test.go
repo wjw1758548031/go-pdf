@@ -11,8 +11,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/wjw1758548031/go_pdf/v3/internal/jbig2/bitmap"
-	"github.com/wjw1758548031/go_pdf/v3/internal/jbig2/reader"
+	"github.com/wjw1758548031/go_pdf/internal/jbig2/bitmap"
+	"github.com/wjw1758548031/go_pdf/internal/jbig2/reader"
 )
 
 // TestPageInformationSegment tests the jbig2 page information segment.

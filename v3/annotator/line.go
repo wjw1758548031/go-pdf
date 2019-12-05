@@ -6,10 +6,10 @@
 package annotator
 
 import (
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/contentstream/draw"
-	pdfcore "github.com/wjw1758548031/go_pdf/v3/core"
-	pdf "github.com/wjw1758548031/go_pdf/v3/model"
+	"github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/contentstream/draw"
+	pdfcore "github.com/wjw1758548031/go_pdf/core"
+	pdf "github.com/wjw1758548031/go_pdf/model"
 )
 
 // LineAnnotationDef defines a line between point 1 (X1,Y1) and point 2 (X2,Y2).  The line ending styles can be none

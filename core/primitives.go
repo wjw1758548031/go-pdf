@@ -13,8 +13,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/internal/strutils"
+	"github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/internal/strutils"
 )
 
 // PdfObject is an interface which all primitive PDF objects must implement.

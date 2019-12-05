@@ -12,8 +12,8 @@ import (
 	gocolor "image/color"
 	"image/jpeg"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/core"
+	"github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/core"
 )
 
 // Creates the encoder for the inline image's Filter and DecodeParms.

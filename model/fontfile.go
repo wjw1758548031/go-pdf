@@ -22,9 +22,9 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/core"
-	"github.com/wjw1758548031/go_pdf/v3/internal/textencoding"
+	"github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/core"
+	"github.com/wjw1758548031/go_pdf/internal/textencoding"
 )
 
 // fontFile represents a font file.

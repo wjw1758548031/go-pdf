@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/wjw1758548031/go_pdf/v3/model"
+	"github.com/wjw1758548031/go_pdf/model"
 )
 
 var seed = rand.New(rand.NewSource(time.Now().UnixNano()))

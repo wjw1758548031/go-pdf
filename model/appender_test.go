@@ -20,11 +20,11 @@ import (
 	"github.com/stretchr/testify/require"
 	"golang.org/x/crypto/pkcs12"
 
-	"github.com/wjw1758548031/go_pdf/v3/annotator"
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/core"
-	"github.com/wjw1758548031/go_pdf/v3/model"
-	"github.com/wjw1758548031/go_pdf/v3/model/sighandler"
+	"github.com/wjw1758548031/go_pdf/annotator"
+	"github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/core"
+	"github.com/wjw1758548031/go_pdf/model"
+	"github.com/wjw1758548031/go_pdf/model/sighandler"
 )
 
 // This test file contains multiple tests to generate PDFs from existing Pdf files. The outputs are written

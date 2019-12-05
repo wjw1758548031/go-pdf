@@ -1,7 +1,7 @@
 package draw
 
 import (
-	pdfcontent "github.com/wjw1758548031/go_pdf/v3/contentstream"
+	pdfcontent "github.com/wjw1758548031/go_pdf/contentstream"
 )
 
 // DrawPathWithCreator makes the path with the content creator.

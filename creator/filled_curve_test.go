@@ -8,7 +8,7 @@ package creator
 import (
 	"testing"
 
-	"github.com/wjw1758548031/go_pdf/v3/contentstream/draw"
+	"github.com/wjw1758548031/go_pdf/contentstream/draw"
 )
 
 func CreateFillCurve(x0, y0, x1, y1, x2, y2, x3, y3 float64) draw.CubicBezierCurve {

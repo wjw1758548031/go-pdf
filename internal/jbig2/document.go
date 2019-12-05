@@ -11,10 +11,10 @@ import (
 	"io"
 	"runtime/debug"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
+	"github.com/wjw1758548031/go_pdf/common"
 
-	"github.com/wjw1758548031/go_pdf/v3/internal/jbig2/reader"
-	"github.com/wjw1758548031/go_pdf/v3/internal/jbig2/segments"
+	"github.com/wjw1758548031/go_pdf/internal/jbig2/reader"
+	"github.com/wjw1758548031/go_pdf/internal/jbig2/segments"
 )
 
 // fileHeaderID first byte slices of the jbig2 encoded file, see D.4.1.

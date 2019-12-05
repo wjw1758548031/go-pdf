@@ -6,8 +6,8 @@
 package creator
 
 import (
-	"github.com/wjw1758548031/go_pdf/v3/contentstream/draw"
-	"github.com/wjw1758548031/go_pdf/v3/model"
+	"github.com/wjw1758548031/go_pdf/contentstream/draw"
+	"github.com/wjw1758548031/go_pdf/model"
 )
 
 // Rectangle defines a rectangle with upper left corner at (x,y) and a specified width and height.  The rectangle

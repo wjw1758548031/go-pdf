@@ -11,8 +11,8 @@ import (
 	"io"
 	"testing"
 
-	"github.com/wjw1758548031/go_pdf/v3/core"
-	"github.com/wjw1758548031/go_pdf/v3/model/optimize"
+	"github.com/wjw1758548031/go_pdf/core"
+	"github.com/wjw1758548031/go_pdf/model/optimize"
 )
 
 // parseIndirectObjects parses a sequence of indirect/stream objects sequentially from a `rawpdf` text.

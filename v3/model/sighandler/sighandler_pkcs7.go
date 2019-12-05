@@ -14,8 +14,8 @@ import (
 
 	"github.com/gunnsth/pkcs7"
 
-	"github.com/wjw1758548031/go_pdf/v3/core"
-	"github.com/wjw1758548031/go_pdf/v3/model"
+	"github.com/wjw1758548031/go_pdf/core"
+	"github.com/wjw1758548031/go_pdf/model"
 )
 
 // Adobe PKCS7 detached signature handler.

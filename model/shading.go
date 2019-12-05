@@ -8,8 +8,8 @@ package model
 import (
 	"errors"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/core"
+	"github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/core"
 )
 
 // PdfShading represents a shading dictionary. There are 7 types of shading,

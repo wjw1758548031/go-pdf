@@ -14,9 +14,9 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/wjw1758548031/go_pdf/v3/annotator"
-	"github.com/wjw1758548031/go_pdf/v3/fdf"
-	"github.com/wjw1758548031/go_pdf/v3/model"
+	"github.com/wjw1758548031/go_pdf/annotator"
+	"github.com/wjw1758548031/go_pdf/fdf"
+	"github.com/wjw1758548031/go_pdf/model"
 )
 
 // FDF merge tests merge FDF data into template PDF data and flattens to an output PDF file.

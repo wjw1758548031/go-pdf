@@ -18,8 +18,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/core/security"
+	"github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/core/security"
 )
 
 // Regular Expressions for parsing and identifying object signatures.

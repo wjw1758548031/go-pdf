@@ -10,7 +10,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
+	"github.com/wjw1758548031/go_pdf/common"
 )
 
 // readAtLeast reads at least n bytes into slice p.

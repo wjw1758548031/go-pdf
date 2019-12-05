@@ -9,8 +9,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/core"
+	"github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/core"
 )
 
 // PdfAnnotation represents an annotation in PDF (section 12.5 p. 389).

@@ -16,9 +16,9 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/extractor"
-	"github.com/wjw1758548031/go_pdf/v3/model"
+	"github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/extractor"
+	"github.com/wjw1758548031/go_pdf/model"
 )
 
 // Extract images test writes out a zip file containing all images extracted

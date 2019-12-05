@@ -8,7 +8,7 @@ package core
 import (
 	"fmt"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
+	"github.com/wjw1758548031/go_pdf/common"
 )
 
 // NewEncoderFromStream creates a StreamEncoder based on the stream's dictionary.

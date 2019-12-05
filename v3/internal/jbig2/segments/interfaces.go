@@ -6,8 +6,8 @@
 package segments
 
 import (
-	"github.com/wjw1758548031/go_pdf/v3/internal/jbig2/bitmap"
-	"github.com/wjw1758548031/go_pdf/v3/internal/jbig2/reader"
+	"github.com/wjw1758548031/go_pdf/internal/jbig2/bitmap"
+	"github.com/wjw1758548031/go_pdf/internal/jbig2/reader"
 )
 
 // Documenter is the interface used for the document model.

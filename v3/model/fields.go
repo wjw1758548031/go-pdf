@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/core"
+	"github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/core"
 )
 
 // FieldFlag represents form field flags. Some of the flags can apply to all types of fields whereas other

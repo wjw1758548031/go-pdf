@@ -11,11 +11,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
+	"github.com/wjw1758548031/go_pdf/common"
 
-	"github.com/wjw1758548031/go_pdf/v3/internal/jbig2/bitmap"
-	"github.com/wjw1758548031/go_pdf/v3/internal/jbig2/decoder/arithmetic"
-	"github.com/wjw1758548031/go_pdf/v3/internal/jbig2/reader"
+	"github.com/wjw1758548031/go_pdf/internal/jbig2/bitmap"
+	"github.com/wjw1758548031/go_pdf/internal/jbig2/decoder/arithmetic"
+	"github.com/wjw1758548031/go_pdf/internal/jbig2/reader"
 )
 
 // GenericRefinementRegion represtents jbig2 generic refinement region segment - 7.4.7.

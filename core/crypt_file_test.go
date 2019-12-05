@@ -12,9 +12,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	pdfcontent "github.com/wjw1758548031/go_pdf/v3/contentstream"
-	"github.com/wjw1758548031/go_pdf/v3/core"
-	pdf "github.com/wjw1758548031/go_pdf/v3/model"
+	pdfcontent "github.com/wjw1758548031/go_pdf/contentstream"
+	"github.com/wjw1758548031/go_pdf/core"
+	pdf "github.com/wjw1758548031/go_pdf/model"
 )
 
 const aes3Dir = `./testdata`

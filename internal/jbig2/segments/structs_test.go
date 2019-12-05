@@ -8,7 +8,7 @@ package segments
 import (
 	"errors"
 
-	"github.com/wjw1758548031/go_pdf/v3/internal/jbig2/bitmap"
+	"github.com/wjw1758548031/go_pdf/internal/jbig2/bitmap"
 )
 
 // document is a testing structure that implements Documenter interface.

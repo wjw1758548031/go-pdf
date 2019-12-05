@@ -6,11 +6,11 @@
 package annotator
 
 import (
-	"github.com/wjw1758548031/go_pdf/v3/common"
+	"github.com/wjw1758548031/go_pdf/common"
 
-	"github.com/wjw1758548031/go_pdf/v3/contentstream/draw"
-	pdfcore "github.com/wjw1758548031/go_pdf/v3/core"
-	pdf "github.com/wjw1758548031/go_pdf/v3/model"
+	"github.com/wjw1758548031/go_pdf/contentstream/draw"
+	pdfcore "github.com/wjw1758548031/go_pdf/core"
+	pdf "github.com/wjw1758548031/go_pdf/model"
 )
 
 // RectangleAnnotationDef is a rectangle defined with a specified Width and Height and a lower left corner at (X,Y).

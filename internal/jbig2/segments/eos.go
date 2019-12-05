@@ -8,7 +8,7 @@ package segments
 import (
 	"math"
 
-	"github.com/wjw1758548031/go_pdf/v3/internal/jbig2/reader"
+	"github.com/wjw1758548031/go_pdf/internal/jbig2/reader"
 )
 
 // EndOfStripe flags an end of stripe - see 7.4.9.

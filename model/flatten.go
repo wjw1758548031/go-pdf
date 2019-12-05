@@ -11,8 +11,8 @@ import (
 	"math"
 	"strings"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/core"
+	"github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/core"
 )
 
 // ContentStreamWrapper wraps the Page's contentstream into q ... Q blocks.

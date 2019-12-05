@@ -17,9 +17,9 @@ import (
 
 	"flag"
 
-	pdfcommon "github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/internal/fonts"
-	"github.com/wjw1758548031/go_pdf/v3/model"
+	pdfcommon "github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/internal/fonts"
+	"github.com/wjw1758548031/go_pdf/model"
 )
 
 func main() {

@@ -14,8 +14,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/core"
+	"github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/core"
 )
 
 // ContentStreamParser represents a content stream parser for parsing content streams in PDFs.

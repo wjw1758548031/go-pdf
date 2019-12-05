@@ -8,7 +8,7 @@ package optimize
 import (
 	"crypto/md5"
 
-	"github.com/wjw1758548031/go_pdf/v3/core"
+	"github.com/wjw1758548031/go_pdf/core"
 )
 
 // CombineDuplicateDirectObjects combines duplicated direct objects by its data hash.

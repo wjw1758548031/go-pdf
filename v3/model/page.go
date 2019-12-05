@@ -18,8 +18,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/core"
+	"github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/core"
 )
 
 // PdfPage represents a page in a PDF document. (7.7.3.3 - Table 30).

@@ -8,7 +8,7 @@ package crypt
 import (
 	"fmt"
 
-	"github.com/wjw1758548031/go_pdf/v3/core/security"
+	"github.com/wjw1758548031/go_pdf/core/security"
 )
 
 var (

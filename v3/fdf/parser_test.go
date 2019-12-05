@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"testing"
 
-	"go_pdf/v3/core"
+	"go_pdf/core"
 )
 
 const fdfExample1 = `

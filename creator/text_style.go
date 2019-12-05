@@ -6,7 +6,7 @@
 package creator
 
 import (
-	"github.com/wjw1758548031/go_pdf/v3/model"
+	"github.com/wjw1758548031/go_pdf/model"
 )
 
 // TextStyle is a collection of properties that can be assigned to a chunk of text.

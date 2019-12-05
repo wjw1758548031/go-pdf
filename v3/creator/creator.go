@@ -12,8 +12,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	"github.com/wjw1758548031/go_pdf/v3/model"
+	"github.com/wjw1758548031/go_pdf/common"
+	"github.com/wjw1758548031/go_pdf/model"
 )
 
 // Creator is a wrapper around functionality for creating PDF reports and/or adding new

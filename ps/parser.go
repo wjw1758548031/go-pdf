@@ -12,8 +12,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/wjw1758548031/go_pdf/v3/common"
-	pdfcore "github.com/wjw1758548031/go_pdf/v3/core"
+	"github.com/wjw1758548031/go_pdf/common"
+	pdfcore "github.com/wjw1758548031/go_pdf/core"
 )
 
 // PSParser is a basic Postscript parser.
