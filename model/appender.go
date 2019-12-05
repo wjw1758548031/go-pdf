@@ -14,8 +14,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
+	"go_pdf/v3/common"
+	"go_pdf/v3/core"
 )
 
 // PdfAppender appends new PDF content to an existing PDF document via incremental updates.

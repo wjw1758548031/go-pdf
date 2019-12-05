@@ -8,8 +8,8 @@ package model
 import (
 	"fmt"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
+	"go_pdf/v3/common"
+	"go_pdf/v3/core"
 )
 
 /*

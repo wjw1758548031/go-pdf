@@ -25,11 +25,11 @@ node {
     env.TMPDIR="${WORKSPACE}/temp"
     sh "mkdir -p ${env.TMPDIR}"
 
-    dir("${GOPATH}/src/github.com/unidoc/unipdf") {
+    dir("${GOPATH}/src/github.com/wjw1758548031/go_pdf") {
         sh 'go version'
 
         stage('Checkout') {
-            echo "Pulling unipdf on branch ${env.BRANCH_NAME}"
+            echo "Pulling go_pdf on branch ${env.BRANCH_NAME}"
             checkout scm
         }
 
@@ -80,12 +80,12 @@ node {
         }
     }
 
-    dir("${GOPATH}/src/github.com/unidoc/unipdf-examples") {
+    dir("${GOPATH}/src/github.com/wjw1758548031/go_pdf-examples") {
         stage('Build examples') {
             // Output environment variables (useful for debugging).
             sh("printenv")
 
-            // Pull unipdf-examples from connected branch, or master otherwise.
+            // Pull go_pdf-examples from connected branch, or master otherwise.
             def examplesBranch = "development"
 
             // Check if connected branch is defined explicitly.
