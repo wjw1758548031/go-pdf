@@ -10,7 +10,7 @@ import (
 	"crypto/rc4"
 	"fmt"
 
-	"go_pdf/v3/common"
+	"github.com/wjw1758548031/go_pdf/v3/common"
 )
 
 func init() {

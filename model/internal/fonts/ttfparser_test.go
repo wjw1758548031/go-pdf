@@ -4,7 +4,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"go_pdf/v3/internal/textencoding"
+	"github.com/wjw1758548031/go_pdf/v3/internal/textencoding"
 )
 
 const fontDir = `../../../creator/testdata`

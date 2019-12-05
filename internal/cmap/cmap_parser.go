@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/unidoc/unipdf/v3/common"
+	"github.com/wjw1758548031/go_pdf/v3/common"
 )
 
 // parse parses the CMap file and loads into the CMap structure.

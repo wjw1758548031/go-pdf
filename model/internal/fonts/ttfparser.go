@@ -38,10 +38,10 @@ import (
 	"sort"
 	"strings"
 
-	"go_pdf/v3/common"
-	"go_pdf/v3/core"
-	"go_pdf/v3/internal/cmap"
-	"go_pdf/v3/internal/textencoding"
+	"github.com/wjw1758548031/go_pdf/v3/common"
+	"github.com/wjw1758548031/go_pdf/v3/core"
+	"github.com/wjw1758548031/go_pdf/v3/internal/cmap"
+	"github.com/wjw1758548031/go_pdf/v3/internal/textencoding"
 )
 
 // MakeEncoder returns an encoder built from the tables in `rec`.

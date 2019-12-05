@@ -11,9 +11,9 @@ import (
 	"io"
 	"strings"
 
-	"go_pdf/v3/common"
-	"go_pdf/v3/core"
-	"go_pdf/v3/core/security"
+	"github.com/wjw1758548031/go_pdf/v3/common"
+	"github.com/wjw1758548031/go_pdf/v3/core"
+	"github.com/wjw1758548031/go_pdf/v3/core/security"
 )
 
 // PdfReader represents a PDF file reader. It is a frontend to the lower level parsing mechanism and provides

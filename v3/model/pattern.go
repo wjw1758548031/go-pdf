@@ -10,8 +10,8 @@ import (
 
 	"fmt"
 
-	"github.com/unidoc/unipdf/v3/common"
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/wjw1758548031/go_pdf/v3/common"
+	"github.com/wjw1758548031/go_pdf/v3/core"
 )
 
 // A PdfPattern can represent a Pattern, either a tiling pattern or a shading pattern.

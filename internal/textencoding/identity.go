@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/unidoc/unipdf/v3/core"
+	"github.com/wjw1758548031/go_pdf/v3/core"
 )
 
 // IdentityEncoder represents an 2-byte identity encoding

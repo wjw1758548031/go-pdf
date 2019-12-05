@@ -3,18 +3,18 @@
  * file 'LICENSE.md', which is part of this source code package.
  */
 
-// Package unipdf is a comprehensive PDF library for Go (golang). The library has advanced capabilities for generating,
+// Package go_pdf is a comprehensive PDF library for Go (golang). The library has advanced capabilities for generating,
 // processing and modifying PDFs. UniPDF is written and supported by the owners of the
 // FoxyUtils.com website, where the library is used to power many of the PDF services offered.
 //
 // Getting More Information
 //
-// Check out the Getting Started and Example sections, which showcase how to install unipdf and provide numerous
-// examples of using unipdf to generate, process or modify PDF files.
+// Check out the Getting Started and Example sections, which showcase how to install go_pdf and provide numerous
+// examples of using go_pdf to generate, process or modify PDF files.
 // https://unidoc.io/examples/getting_started/
 //
-// The GoDoc for unipdf provides a detailed breakdown of the API and documentation for packages, types and methods.
-// https://godoc.org/github.com/unidoc/unipdf
+// The GoDoc for go_pdf provides a detailed breakdown of the API and documentation for packages, types and methods.
+// https://godoc.org/github.com/wjw1758548031/go_pdf/v3
 //
 // Overview of Major Packages
 //

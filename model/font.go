@@ -11,12 +11,12 @@ import (
 	"sort"
 	"strings"
 
-	"go_pdf/v3/common"
-	"go_pdf/v3/core"
+	"github.com/wjw1758548031/go_pdf/v3/common"
+	"github.com/wjw1758548031/go_pdf/v3/core"
 
-	"go_pdf/v3/internal/cmap"
-	"go_pdf/v3/internal/textencoding"
-	"go_pdf/v3/model/internal/fonts"
+	"github.com/wjw1758548031/go_pdf/v3/internal/cmap"
+	"github.com/wjw1758548031/go_pdf/v3/internal/textencoding"
+	"github.com/wjw1758548031/go_pdf/v3/model/internal/fonts"
 )
 
 // pdfFont is an internal interface for fonts that can be stored in PDF documents.

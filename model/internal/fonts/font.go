@@ -8,7 +8,7 @@ package fonts
 import (
 	"fmt"
 
-	"go_pdf/v3/internal/textencoding"
+	"github.com/wjw1758548031/go_pdf/v3/internal/textencoding"
 )
 
 // Font represents a font which is a series of glyphs. Character codes from PDF strings can be

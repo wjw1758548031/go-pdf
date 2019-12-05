@@ -10,10 +10,10 @@ import (
 	"math"
 	"strings"
 
-	"github.com/unidoc/unipdf/v3/common"
+	"github.com/wjw1758548031/go_pdf/v3/common"
 
-	"github.com/unidoc/unipdf/v3/internal/jbig2/bitmap"
-	"github.com/unidoc/unipdf/v3/internal/jbig2/reader"
+	"github.com/wjw1758548031/go_pdf/v3/internal/jbig2/bitmap"
+	"github.com/wjw1758548031/go_pdf/v3/internal/jbig2/reader"
 )
 
 // PageInformationSegment represents the segment type Page Information 7.4.8.

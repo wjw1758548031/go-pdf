@@ -11,12 +11,12 @@ import (
 	"math"
 	"strings"
 
-	"go_pdf/v3/common"
+	"github.com/wjw1758548031/go_pdf/v3/common"
 
-	"go_pdf/v3/internal/jbig2/bitmap"
-	"go_pdf/v3/internal/jbig2/decoder/arithmetic"
-	"go_pdf/v3/internal/jbig2/decoder/huffman"
-	"go_pdf/v3/internal/jbig2/reader"
+	"github.com/wjw1758548031/go_pdf/v3/internal/jbig2/bitmap"
+	"github.com/wjw1758548031/go_pdf/v3/internal/jbig2/decoder/arithmetic"
+	"github.com/wjw1758548031/go_pdf/v3/internal/jbig2/decoder/huffman"
+	"github.com/wjw1758548031/go_pdf/v3/internal/jbig2/reader"
 )
 
 // TextRegion is the model for the jbig2 text region segment - see 7.4.1.

@@ -16,7 +16,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/unidoc/unipdf/v3/common"
+	"github.com/wjw1758548031/go_pdf/v3/common"
 )
 
 func makeReaderForText(txt string) (*bytes.Reader, *bufio.Reader, int64) {
